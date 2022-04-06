@@ -1,0 +1,11 @@
+﻿  machine_vision_midterm1.cpp
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(626): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(656): warning C4101: d: неиспользованная локальная переменная
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(852): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(893): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(894): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(895): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  machine_vision_midterm1.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  machine_vision_midterm.vcxproj -> C:\Users\jeff8\Desktop\機器視覺\machine_vision_midterm\x64\Debug\machine_vision_midterm.exe
+  machine_vision_midterm.vcxproj -> C:\Users\jeff8\Desktop\機器視覺\machine_vision_midterm\x64\Debug\machine_vision_midterm.pdb (Partial PDB)

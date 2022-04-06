@@ -1,0 +1,2 @@
+﻿  machine_vision_midterm1.cpp
+c:\users\jeff8\desktop\機器視覺\machine_vision_midterm\machine_vision_midterm\machine_vision_midterm1.h(2): fatal error C1083: Не удается открыть файл включение: opencv2\opencv.hpp: No such file or directory

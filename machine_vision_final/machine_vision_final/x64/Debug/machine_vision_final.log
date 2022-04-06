@@ -1,0 +1,10 @@
+﻿  machine_vision_final.cpp
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(487): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(545): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(562): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(579): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(624): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\jeff8\desktop\機器視覺\machine_vision_final\machine_vision_final\machine_vision_final.h(629): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  machine_vision_final.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  machine_vision_final.vcxproj -> C:\Users\jeff8\Desktop\機器視覺\machine_vision_final\x64\Debug\machine_vision_final.exe
+  machine_vision_final.vcxproj -> C:\Users\jeff8\Desktop\機器視覺\machine_vision_final\x64\Debug\machine_vision_final.pdb (Partial PDB)

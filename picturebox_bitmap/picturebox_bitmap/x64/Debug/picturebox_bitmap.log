@@ -1,0 +1,25 @@
+﻿  picturebox_bitmap.cpp
+d:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: cv::String::String: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(483): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(807): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(2143): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(3743): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: cv::detail::PtrOwner::incRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: cv::detail::PtrOwner::decRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+d:\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: cv::String::operator=: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+picturebox_bitmap.obj : warning LNK4248: unresolved typeref token (01000011) for 'CvCapture'; image may not run
+picturebox_bitmap.obj : error LNK2028: unresolved token (0A0013C1) "class System::Drawing::Bitmap ^ __clrcall picturebox_bitmap::iplImageToBitmap(struct _IplImage *)" (?iplImageToBitmap@picturebox_bitmap@@$$FYMPE$AAVBitmap@Drawing@System@@PEAU_IplImage@@@Z) referenced in function "private: void __clrcall picturebox_bitmap::picturebox_bitmap::button1_Click(class System::Object ^,class System::EventArgs ^)" (?button1_Click@picturebox_bitmap@1@$$FAE$AAMXPE$AAVObject@System@@PE$AAVEventArgs@3@@Z)
+picturebox_bitmap.obj : error LNK2019: unresolved external symbol "class System::Drawing::Bitmap ^ __clrcall picturebox_bitmap::iplImageToBitmap(struct _IplImage *)" (?iplImageToBitmap@picturebox_bitmap@@$$FYMPE$AAVBitmap@Drawing@System@@PEAU_IplImage@@@Z) referenced in function "private: void __clrcall picturebox_bitmap::picturebox_bitmap::button1_Click(class System::Object ^,class System::EventArgs ^)" (?button1_Click@picturebox_bitmap@1@$$FAE$AAMXPE$AAVObject@System@@PE$AAVEventArgs@3@@Z)
+C:\Users\jeff8\Desktop\機器視覺\picturebox_bitmap\x64\Debug\picturebox_bitmap.exe : fatal error LNK1120: 2 unresolved externals
